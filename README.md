@@ -1,4 +1,4 @@
-#Purpose
+# Purpose
 This document provides a concise, structured overview of the anatomy of the human heart, formatted in the style commonly used for Health Technology Assessments (HTAs). It is intended to serve as a foundational reference for professionals involved in health policy, market access, medical affairs, and related clinical disciplines.
 # Intended Audience
 Health policy professionals
